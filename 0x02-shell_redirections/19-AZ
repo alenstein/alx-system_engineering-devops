@@ -1,0 +1,2 @@
+#!/bin/Bash
+tr A Z | tr c e
